@@ -1,0 +1,22 @@
+{
+    "schedule":[
+        {
+        "id" : 0,
+        "date":["August", "06"],
+        "title" : "Eggs and Apps Conference",
+        "description" : "Type something ipsum dolor sit ametipsum dolor sit "
+        },
+        {
+        "id" : 1,
+        "date":["September", "12"],
+        "title" : "California Regional Show",
+        "description" : "Type something ipsum dolor sit ametipsum dolor sit "
+        },
+        {
+        "id" : 2,
+        "date":["October", "31"],
+        "title" : "New York Public Library Visits",
+        "description" : "Type something ipsum dolor sit ametipsum dolor sit "
+        }
+    ]
+}
