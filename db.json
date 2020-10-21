@@ -43,5 +43,10 @@
         "description" : "Type something ipsum dolor sit ametipsum dolor sit "
         }
     ],
-    "contact":[]
+    "contact":[{
+        "name" : "",
+        "address" : "",
+        "D.O.B" : ""
+        }
+    ]
 }
