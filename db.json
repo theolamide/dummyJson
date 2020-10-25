@@ -44,9 +44,12 @@
         }
     ],
     "contact":[{
-        "name" : "",
-        "address" : "",
-        "D.O.B" : ""
+        "firstName" : "",
+        "lastName" : "",
+        "email" : "",
+        "librarySystem" : "",
+        "subject" : "",
+        "message" : ""
         }
     ]
 }
